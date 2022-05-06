@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "file": "D://Fellowship_Javascript//Workshop//pages//AddressBookForm.html",
+            "file": "D://Fellowship_Javascript//Workshop//pages//AddressBookHome.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
